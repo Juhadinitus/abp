@@ -17,10 +17,10 @@
     "WantToLearn?": "Haluan oppia?",
     "ReadyToGetStarted?": "Oletko valmis aloittamaan?",
     "JoinOurCommunity": "Liity yhteisöömme",
-    "GetStartedUpper": "ALOITTAA",
+    "GetStartedUpper": "ALOITA",
     "ForkMeOnGitHub": "Haaraa minut GitHubiin",
     "Features": "ominaisuudet",
-    "GetStarted": "Aloittaa",
+    "GetStarted": "Aloita",
     "Documents": "Asiakirjat",
     "Community": "Yhteisö",
     "ContributionGuide": "Contribution Guide",
@@ -31,7 +31,7 @@
     "Permission:UserInfo": "Käyttäjän tiedot",
     "SeeDocuments": "Katso Asiakirjat",
     "Samples": "Näytteet",
-    "Framework": "Kehys",
+    "Framework": "Sovelluskehys",
     "Support": "Tuki"
   }
 }
